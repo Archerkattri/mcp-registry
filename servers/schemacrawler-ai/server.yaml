@@ -22,7 +22,7 @@ about:
 source:
   project: "https://github.com/schemacrawler/SchemaCrawler-AI"
   branch: docker-mcp-registry
-  commit: 97ce594c9498d8cb6af364734db30cbefcaba54d
+  commit: a1df4c5d8584a9b2d57a1bb7aeb088440d2ead0c
 run:
   volumes:
     - "{{schemacrawler-ai.volume.host_share}}:/share"
